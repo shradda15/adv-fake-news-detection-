@@ -1,0 +1,21 @@
+$ echo "Welcome to project school" >> file2.txt
+
+
+
+stage 2:
+$ echo "Cyber security" >> file2.txt
+
+task 3:
+nslookup google.com
+Server: 192.168.83.2
+Adress: 192.168.83.2#53
+
+Non-authoritative answer:
+Name: google.com
+Adress: 142.250.183.206
+Name: google.com
+Adress: 2404:6800:4009:826::200e
+
+
+┌──(kali㉿kali)-[~]
+└─$ echo 2404:6800:4009:80e::200e >> file2.txt
