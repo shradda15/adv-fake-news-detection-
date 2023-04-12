@@ -1,0 +1,7 @@
+Q: 
+  Extract the key from the given file (key.txt).
+command: 
+  sed 's/[^[:alnum:]]//g' key.txt
+
+Output:
+  PKey2030115bd38485e8b352f60f2b90f8a932ad0e95
